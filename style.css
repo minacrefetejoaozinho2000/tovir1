@@ -30,7 +30,7 @@ input[type="number"] {
     padding-bottom: 8px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
-    border-radius: 4px; background-color: blue;
+    border-radius: 4px;
     font-size: 16px;
 }
 
@@ -50,14 +50,13 @@ button:hover {
 
 h2 {
     color: #008CBA;
-    margin-bottom: 10px; background-color: blue;
+    margin-bottom: 10px;
 }
 
 ul#listaDados {
     list-style: none;
     background-color: #b6aeae;
     padding: 0;
-    background_color: blue;
 }
 
 ul#listaDados li {
