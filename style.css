@@ -55,11 +55,9 @@ h2 {
 
 ul#listaDados {
     list-style: none;
-ul#listaDados li:hover{
     background-color: #b6aeae;
-}
     padding: 0;
-        background_color: blue;
+    background_color: blue;
 }
 
 ul#listaDados li {
